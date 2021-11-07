@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.nickname.humancondition.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+  ],
+  "client": [
+    "HumanConditionMixin.java"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
